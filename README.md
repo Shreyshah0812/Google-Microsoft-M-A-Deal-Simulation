@@ -19,9 +19,9 @@ This project simulates a hypothetical M&A deal where **Google (Alphabet Inc.)** 
 
 ## 📁 File Structure
 
-- `GMJP.py`: Main Python script with data processing, modeling, and Streamlit dashboard.
+- `Google-Microsoft M&A Simulation.ipynb`: Main Python script with data processing, modeling, and Streamlit dashboard.
 - `Google.csv` & `Microsoft.csv`: Historical stock and financial data (used locally).
-- `GMJP.ipynb` (optional): Jupyter Notebook version for development (converted using `nbconvert`).
+
 
 ---
 
